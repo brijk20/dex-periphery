@@ -1716,7 +1716,7 @@ duplexer3@^0.1.4:
 
 "dex-core@https://github.com/brijk20/dex-core.git":
   version "0.3.7"
-  resolved "https://github.com/brijk20/dex-core.git#6b4795f449dc3d95973fe7be9707ac35e2d036fc"
+  resolved "https://github.com/brijk20/dex-core#6b4795f449dc3d95973fe7be9707ac35e2d036fc"
   dependencies:
     typescript "^3.9.5"
 
