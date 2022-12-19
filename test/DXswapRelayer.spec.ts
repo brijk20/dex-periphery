@@ -82,8 +82,8 @@ describe('DXswapRelayer', () => {
   // 1/1/2020 @ 12:00 am UTC
   // cannot be 0 because that instructs ganache to set it to current timestamp
   // cannot be 86400 because then timestamp 0 is a valid historical observation
-  const startTime = 1577836800
-  const defaultDeadline = 1577836800 + 86400 // 24 hours
+  const startTime = 1671438334
+  const defaultDeadline = 1671438334 + 86400 // 24 hours
 
   // must come before adding liquidity to pairs for correct cumulative price computations
   // cannot use 0 because that resets to current timestamp
@@ -192,7 +192,7 @@ describe('DXswapRelayer', () => {
           defaultMinReserve,
           defaultMinReserve,
           defaultMaxWindowTime,
-          1577836800,
+          1671438334,
           dxswapFactory.address
         )
       ).to.be.revertedWith('DXswapRelayer: DEADLINE_REACHED')
