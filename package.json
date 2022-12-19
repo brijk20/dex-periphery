@@ -1,5 +1,5 @@
 {
-  "name": "dxswap-periphery",
+  "name": "dex-periphery",
   "version": "0.3.7",
   "description": "Peripheral smart contracts for interacting with DXswap core contracts",
   "engines": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/levelkdev/dxswap-periphery"
+    "url": "https://github.com/brijk20/dex-periphery.git"
   },
   "files": [
     "build",
     "contracts"
   ],
   "dependencies": {
-    "dxswap-core": "https://github.com/1Hive/dxswap-core.git"
+    "dex-core": "https://github.com/brijk20/dex-core.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",

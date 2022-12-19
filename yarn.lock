@@ -1714,9 +1714,9 @@ duplexer3@^0.1.4:
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
-"dxswap-core@https://github.com/1Hive/dxswap-core.git":
+"dex-core@https://github.com/brijk20/dex-core.git":
   version "0.3.7"
-  resolved "https://github.com/1Hive/dxswap-core.git#6b4795f449dc3d95973fe7be9707ac35e2d036fc"
+  resolved "https://github.com/brijk20/dex-core.git#6b4795f449dc3d95973fe7be9707ac35e2d036fc"
   dependencies:
     typescript "^3.9.5"
 
