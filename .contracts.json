@@ -12,9 +12,9 @@
     "router": "0x882A796B6f1f1679BBa1dd127EcE41Fd4f7aEacc"
   },
   "xdai": {
-    "router": "0x938205713972aC44c27ddab1122299ab343337fb"
+    "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
   },
   "matic": {
-    "router": "0x938205713972aC44c27ddab1122299ab343337fb"
+    "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
   }
 }
