@@ -68,7 +68,7 @@ describe('ExampleSlidingWindowOracle', () => {
   // 1/1/2020 @ 12:00 am UTC
   // cannot be 0 because that instructs ganache to set it to current timestamp
   // cannot be 86400 because then timestamp 0 is a valid historical observation
-  const startTime = 1671438334
+  const startTime = 1577836800
 
   // must come before adding liquidity to pairs for correct cumulative price computations
   // cannot use 0 because that resets to current timestamp

@@ -8,7 +8,7 @@ The following assumes the use of `node@>=10`.
 
 ## Clone Repository
 
-`git clone https://github.com/brijk20/dex-periphery.git.git`
+`git clone https://github.com/levelkdev/dxswap-periphery.git`
 
 ## Install Dependencies
 
