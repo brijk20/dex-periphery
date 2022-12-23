@@ -16,5 +16,14 @@
   },
   "matic": {
     "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
+  },
+  "tavalanche":{
+    "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
+  },
+  "tmatic":{
+    "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
+  },
+  "tbinance":{
+    "router": "0x998478Eed568e8E3BF151F97C9be2e0F433C7262"
   }
 }
